@@ -3,4 +3,5 @@ A premium Royal Watch website crafted with full responsiveness across all device
 
 Preview
 _______________________________________________________________________________________________________________________________
-![Uploading Screenshot 2024-08-20 162122.png…]()
+
+![127 0 0 1_5500_index html](https://github.com/user-attachments/assets/67772243-e4fc-4719-9c3a-a57e767db3d7)
